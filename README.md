@@ -11,3 +11,5 @@ IMPORTANT: It might be necessary to generate the GLAD bindings [here](https://gl
 The OpenGL library has to be installed and linked by the compiler.
 
 It also requires the library [GLFW](https://www.glfw.org/).
+
+With the dependencies met, it should be possible to get the scene shown in the image above and move freely.
